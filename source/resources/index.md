@@ -74,6 +74,7 @@ These are some of our favorite tools, check them out! The most important to know
 8. [hashcat](https://hashcat.net/hashcat/): password cracker (more GPU heavy)
 9. [john the ripper](https://www.openwall.com/john/): password cracker (more CPU heavy)
 10. [Aircrack-ng](https://www.aircrack-ng.org/): Wireless cracker and analysis suite
+11. [PEASS-ng] (https://github.com/carlospolop/PEASS-ng): Privilege escalation 
 
 
 ## Hardware Hacking
